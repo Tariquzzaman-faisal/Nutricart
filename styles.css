@@ -1,0 +1,13 @@
+body{
+  /*background-image: url(images/homepage.jpg);*/
+}
+.theme-color{
+    background-color: #2C7873;
+}
+.welcome{
+    text-align: center;
+    color: #2C7873;
+    padding: 10%;
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5rem;
+}
